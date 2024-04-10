@@ -1,4 +1,4 @@
-#Rock-Paper-Scissors Game
+# Rock-Paper-Scissors Game
 
 * The game is played by the User and Computer
 
