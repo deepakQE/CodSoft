@@ -7,5 +7,5 @@
   * if else condition
   * continue
   * break
-# The program is good for a Practice purpose
+ # The program is good for a Practice purpose
 
