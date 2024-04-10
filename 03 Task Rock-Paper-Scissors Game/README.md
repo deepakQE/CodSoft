@@ -1,6 +1,8 @@
 #Rock-Paper-Scissors Game
 
--* It can be a game played by the user and computer and decide how can win in this game it is a basic game used in 
+* The game is played by the User and Computer
+
+* Condition Used
   * while loop
   * if else condition
   * continue
