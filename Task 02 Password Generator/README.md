@@ -28,6 +28,8 @@
 ### For Loop 
    * It run again and again
    * when the conditon is true it exit the program.
+### lower 
+   * The lower is convert all alphabet in the lower case. 
 
    
 
