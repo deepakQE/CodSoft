@@ -1,8 +1,8 @@
 # Rock-Paper-Scissors
-* It generates random password.
-* It used Symbol , Number , Alphabets.
-* It give the password upto 30 character.
-* It have limited length for Password Generate
+* It generates random choice 
+* The game is played by the User and Computer.
+* The game is basic of Rock-Paper-Scissors.
+* It asked for play more game and exit the game.
 
 ## Condition Used 
 ### Input function
