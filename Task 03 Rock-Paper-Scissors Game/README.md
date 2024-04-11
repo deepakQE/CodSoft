@@ -31,7 +31,7 @@
 ### lower 
    * The lower is convert all alphabet in the lower case.
 ### Computer
-   * The Computer chose the random value.
+   * The Computer choose the random value.
    * play with the user.
    * win according to the Computers choice and match who want win.
    * play these game it have more fun.
