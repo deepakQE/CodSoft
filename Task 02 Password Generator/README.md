@@ -21,5 +21,13 @@
  * It used for the exit the program
 ### Continue
  * It used for run the program again and again
+### Random Choice 
+ * It used for choose random variables in the given list.
+### List 
+  * It can store the value of given data.
+### For Loop 
+   * It run again and again
+   * when the conditon is true it exit the program.
+
    
 
